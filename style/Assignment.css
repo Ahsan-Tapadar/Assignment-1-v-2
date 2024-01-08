@@ -121,4 +121,16 @@ main section {
     width: 697px;
 }
 
+.block-subtitle {
+    color: #FFF;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 48px auto 142px 50px;
+}
+
 /* Footer styles */
