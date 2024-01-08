@@ -1,0 +1,46 @@
+/* Shared styles */
+
+/* Banner styles */
+.banner-caption {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.banner-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.image {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    border-radius: 16px;
+
+}
+
+.image-overlay {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.281);
+    justify-content: center;
+    align-items: center;
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+
+/* Main Styles */
+
+/* Footer styles */
