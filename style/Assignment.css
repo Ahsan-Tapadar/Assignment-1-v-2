@@ -22,9 +22,10 @@
     padding-top: 0px;
 }
 
-section{
-    gap: 300px;
+main section {
+    margin-top: 130px;
 }
+
 
 /* Banner styles */
 .banner-caption {
@@ -63,6 +64,7 @@ section{
 
 /* Main Styles */
 
+/* Discount Styles */
 .discount-image {
     width: 802.9px;
     height: 500px;
@@ -82,5 +84,41 @@ section{
     margin-bottom: 48px;
 }
 
+/* section-block */
+
+.welcome-party {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.952), rgba(0, 0, 0, 0.075)), url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    padding: 126px 497px 142px 126px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.block-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-bottom: 24px;
+    width: 642px;
+}
+
+.block-text {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0px;
+    width: 697px;
+}
 
 /* Footer styles */
