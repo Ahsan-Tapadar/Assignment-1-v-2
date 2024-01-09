@@ -22,6 +22,16 @@
     padding-top: 0px;
 }
 
+.section-title-2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
 main section {
     margin-top: 130px;
 }
@@ -138,7 +148,6 @@ section .section-block {
 /* event-schedule */
 .schedule-title {
     color: #070211;
-    ;
     text-align: center;
     font-family: Inter;
     font-size: 32px;
@@ -156,8 +165,8 @@ section .section-block {
     background-color: #FFE7E7;
     display: block;
     border-radius: 16px;
-    margin: 100px 350px;
-    
+    margin-top: 100px;
+
 }
 
 .primary-button {
@@ -178,6 +187,34 @@ section .section-block {
     text-transform: uppercase;
     border: 0px;
     margin-top: 48px;
+}
+
+.section-event {
+    width: 1320px;
+    height: 482px;
+    align-items: center;
+}
+
+/* best-offer */
+
+.offer-caption {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.offer-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
 }
 
 /* Footer styles */
