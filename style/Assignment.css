@@ -217,4 +217,14 @@ section .section-block {
     width: 393px;
 }
 
+.best-offer {
+    display: flex;
+    width: 1600px;
+    height: 7335px;
+    justify-content: center;
+    }
+
+.functional{
+
+}
 /* Footer styles */
